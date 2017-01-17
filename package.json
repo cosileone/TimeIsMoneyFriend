@@ -1,0 +1,16 @@
+{
+  "name": "timeismoneyfriend",
+  "version": "1.0.0",
+  "description": "Time is Money, Friend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cosi Leone, Joe Brown",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.79.0"
+  }
+}
