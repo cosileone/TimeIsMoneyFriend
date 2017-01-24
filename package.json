@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cosi Leone, Joe Brown",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cosileone/TimeIsMoneyFriend.git"
+  },
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
