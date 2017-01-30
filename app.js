@@ -1,8 +1,8 @@
-var express = require('express')
+var express = require('express');
 var request = require('request');
 var fs = require('fs');
 var mkdirp = require('mkdirp');
-var app = express()
+var app = express();
 
 var blizz_key = 'bggrux4vtw3yscw5n92cydvgrx8gycpz';
 
